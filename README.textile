@@ -14,4 +14,4 @@ p. To install this one EE do the following
 # BAM! Like magic.
 
 
-p. Special thanks to Ryan Masuga (http://www.devot-ee.com/) and Brandon Kelly (http://www.brandon-kelly.com) for holding my hand during this long and arduous journey.
+p. Special thanks to Ryan Masuga (of "Devot-ee":http://www.devot-ee.com/) and Brandon Kelly (of "Customer Service Reps":http://www.brandon-kelly.com) for holding my hand during this long and arduous journey.

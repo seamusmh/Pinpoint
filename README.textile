@@ -1,0 +1,17 @@
+h1. Pinpoint
+
+p. Pinpoint is an ExpressionEngine extension that adds the url_title field to edit page
+
+h2. Installation
+
+p. If you've never installed an ExpressionEngine extension before, then what the hell are you doing? ExpressionEngine is awesome, but ExpressionEngine with extensions is one of the most powerful tools. You should be ashamed of yourself! However, if you're a newbie, please let me embrace you with welcoming arms brother/sister!
+
+p. To install this one EE do the following
+
+# Upload /extensions/ext.kjm_pinpoint.php to your /system/extensions/ directory
+# Upload /language/english/lang.kjm_pinpoint.php to your /language/english/ directory
+# Login to your Control Panel and go to Admin->Utilities->Extensions, look for Pinpoint and click on the "install" button
+# BAM! Like magic.
+
+
+p. Special thanks to Ryan Masuga (http://www.devot-ee.com/) and Brandon Kelly (http://www.brandon-kelly.com) for holding my hand during this long and arduous journey.
